@@ -90,7 +90,7 @@ i {
 
 #header {
     margin-top: 50px;
-    background: url(../img/4.jpg) no-repeat center /cover;
+    background: url(./img/4.jpg) no-repeat center /cover;
     height: 105vh;
 }
 
@@ -199,7 +199,7 @@ h2 {
 
 
 #call_to_action {
-    background: url(../img/planka2.jpg) no-repeat center /cover;
+    background: url(./img/planka2.jpg) no-repeat center /cover;
     height: 110vh;
     margin: 90px 0px;
 }
